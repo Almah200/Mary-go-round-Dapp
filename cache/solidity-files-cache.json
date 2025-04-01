@@ -1,0 +1,113 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/almarat/SOLIDITY PROJECT/Mary-go-round-Dapp/contracts/ERC20.sol": {
+      "lastModificationDate": 1742403998591,
+      "contentHash": "a7bd726c49139e41c349b65baa828b67",
+      "sourceName": "contracts/ERC20.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.0 <0.9.0"
+      ],
+      "artifacts": [
+        "ERC20"
+      ]
+    },
+    "/home/almarat/SOLIDITY PROJECT/Mary-go-round-Dapp/contracts/Marygoround.sol": {
+      "lastModificationDate": 1743095820446,
+      "contentHash": "e1337044ee6270e25397bbb4c40a30b2",
+      "sourceName": "contracts/Marygoround.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Marygoround"
+      ]
+    },
+    "/home/almarat/SOLIDITY PROJECT/Mary-go-round-Dapp/contracts/Marygoroundhourtest.sol": {
+      "lastModificationDate": 1743098263923,
+      "contentHash": "8db7e446a6a7e04d4358317b489f0119",
+      "sourceName": "contracts/Marygoroundhourtest.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Marygoroundhourtest"
+      ]
+    }
+  }
+}
